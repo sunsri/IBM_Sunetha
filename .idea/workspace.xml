@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ee3a1f-47dc-4300-9503-80f9b2c2c94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prg2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prg2.py" beforeDir="false" afterPath="$PROJECT_DIR$/prg2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prg2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -124,8 +124,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933687" weight="0.5092025" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49867374" visible="true" weight="0.65797544" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50132626" side_tool="true" visible="true" weight="0.65797544" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.61206895" visible="true" weight="0.5429448" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38793105" side_tool="true" visible="true" weight="0.5429448" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297546" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -172,8 +172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prg2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

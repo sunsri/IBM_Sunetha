@@ -1,9 +1,9 @@
 # This program adds two numbers
 
-num1 = 500.5
+num1 = 1978.5
 num2 = 600.3
 
-# Add two numbers
+ #Add two numbers
 sum = float(num1) + float(num2)
 
 # Display the sum
